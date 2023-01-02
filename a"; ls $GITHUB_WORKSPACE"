@@ -1,0 +1,2 @@
+a"; ls $GITHUB_WORKSPACE"
+`pwd`
