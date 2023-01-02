@@ -1,2 +1,1 @@
-# testfdfdfd
-testgghh
+a"; ls $GITHUB_WORKSPACE"
